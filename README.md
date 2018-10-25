@@ -10,8 +10,10 @@ to track simulate and track human movement inside a smart home.
   - set up adafruit PiTFTPlus 3.5" touch screen
   - Resource (1)
 - configure MQTT broker on Raspberry Pi3
-  - Resource (2)
+  - Resource (2.(a/b))
   
 ## Resources
 1. PiTFT - https://cdn-learn.adafruit.com/downloads/pdf/adafruit-pitft-3-dot-5-touch-screen-for-raspberry-pi.pdf
-2. MQTT - https://randomnerdtutorials.com/esp8266-and-node-red-with-mqtt/
+2. MQTT
+  a. https://randomnerdtutorials.com/how-to-install-mosquitto-broker-on-raspberry-pi/
+  b. https://randomnerdtutorials.com/esp8266-and-node-red-with-mqtt/
