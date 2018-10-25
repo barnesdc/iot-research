@@ -15,5 +15,5 @@ to track simulate and track human movement inside a smart home.
 ## Resources
 1. PiTFT - https://cdn-learn.adafruit.com/downloads/pdf/adafruit-pitft-3-dot-5-touch-screen-for-raspberry-pi.pdf
 2. MQTT
-  a. https://randomnerdtutorials.com/how-to-install-mosquitto-broker-on-raspberry-pi/
-  b. https://randomnerdtutorials.com/esp8266-and-node-red-with-mqtt/
+  - a. https://randomnerdtutorials.com/how-to-install-mosquitto-broker-on-raspberry-pi/
+  - b. https://randomnerdtutorials.com/esp8266-and-node-red-with-mqtt/
