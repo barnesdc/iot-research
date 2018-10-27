@@ -19,4 +19,8 @@ to track simulate and track human movement inside a smart home.
 2. MQTT
   - a. https://randomnerdtutorials.com/how-to-install-mosquitto-broker-on-raspberry-pi/
   - b. https://randomnerdtutorials.com/esp8266-and-node-red-with-mqtt/
-3. Node-RED - https://randomnerdtutorials.com/getting-started-with-node-red-on-raspberry-pi/
+  - c. https://oneguyoneblog.com/2017/06/20/mosquitto-mqtt-node-red-raspberry-pi/
+3. Node-RED 
+  - a. Installation - https://randomnerdtutorials.com/getting-started-with-node-red-on-raspberry-pi/
+  - b. Cookbook - https://cookbook.nodered.org/
+  - b. Video - https://www.youtube.com/watch?v=XsR-VTMuaCE
