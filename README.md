@@ -5,6 +5,18 @@
 to track simulate and track human movement inside a smart home.
 - Research affordances and gain further understanding of how it plays a part
 
+## Hardware
+  - Raspberry Pi 3B
+    - PiTFTPlus Plus 3.5"
+  - Keyboard
+    - wireless w/mouse preferred
+  - HDMI Cable
+    - HDMI to VGA
+  - Monitor
+  - Arduino Uno
+  - PIR Sensor
+  - Electronics Parts Pack
+  
 ## Tasks:
 - create an account on tinkerCAD for further understanding of microcontroller circuits
   - https://www.tinkercad.com/
