@@ -39,7 +39,8 @@ to track simulate and track human movement inside a smart home.
 3. Node-RED 
   - a. Installation - https://randomnerdtutorials.com/getting-started-with-node-red-on-raspberry-pi/
   - b. Cookbook - https://cookbook.nodered.org/
-  - b. Video - https://www.youtube.com/watch?v=XsR-VTMuaCE
+  - c. Video - https://www.youtube.com/watch?v=XsR-VTMuaCE
+  - d. tutorial - https://www.ibm.com/developerworks/library/iot-lp101-get-started-develop-iot-home-automation/index.html
 3. Connecting Node-RED to Arduino
   - a. https://ktinkerer.co.uk/communicating-arduino-raspberry-pi-using-node-red/
     - i. https://flows.nodered.org/node/node-red-node-serialport
