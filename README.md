@@ -66,3 +66,6 @@
 4. Understanding Node-RED & MQTT
 
 - a. https://www.youtube.com/watch?v=WxUTYzxIDns
+
+5. Node-RED Dashboard
+- a. https://www.youtube.com/watch?v=UKv4_jvPtr4
