@@ -6,6 +6,8 @@ to track simulate and track human movement inside a smart home.
 - Research affordances and gain further understanding of how it plays a part
 
 ## Tasks:
+- create an account on tinkerCAD for further understanding of microcontroller circuits
+  - https://www.tinkercad.com/
 - set up  / configure Rasperberry Pi 3
   - set up adafruit PiTFTPlus 3.5" touch screen
   - Resource (1)
@@ -26,3 +28,11 @@ to track simulate and track human movement inside a smart home.
   - a. Installation - https://randomnerdtutorials.com/getting-started-with-node-red-on-raspberry-pi/
   - b. Cookbook - https://cookbook.nodered.org/
   - b. Video - https://www.youtube.com/watch?v=XsR-VTMuaCE
+3. Connecting Node-RED to Arduino
+  - a. https://ktinkerer.co.uk/communicating-arduino-raspberry-pi-using-node-red/
+    - i. https://flows.nodered.org/node/node-red-node-serialport
+  - b. https://www.youtube.com/watch?v=snLZKcecgGI
+4. Understanding Node-RED & MQTT
+  - a. https://www.youtube.com/watch?v=WxUTYzxIDns
+5. Understanding Microcontroler Circuits
+  - a. Create an account 
