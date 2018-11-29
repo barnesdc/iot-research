@@ -72,3 +72,4 @@
 
 7. Adafruit Feather Huzzah ESP8266
 - a. https://learn.adafruit.com/adafruit-feather-huzzah-esp8266/using-arduino-ide
+- b. setup mqtt https://randomnerdtutorials.com/esp8266-and-node-red-with-mqtt/ 
