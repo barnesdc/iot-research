@@ -57,15 +57,18 @@
 - c. Video - https://www.youtube.com/watch?v=XsR-VTMuaCE
 - d. tutorial - https://www.ibm.com/developerworks/library/iot-lp101-get-started-develop-iot-home-automation/index.html
 
-3. Connecting Node-RED to Arduino
+4. Connecting Node-RED to Arduino
 
 - a. https://ktinkerer.co.uk/communicating-arduino-raspberry-pi-using-node-red/
   - i. https://flows.nodered.org/node/node-red-node-serialport
 - b. https://www.youtube.com/watch?v=snLZKcecgGI
 
-4. Understanding Node-RED & MQTT
+5. Understanding Node-RED & MQTT
 
 - a. https://www.youtube.com/watch?v=WxUTYzxIDns
 
-5. Node-RED Dashboard
+6. Node-RED Dashboard
 - a. https://www.youtube.com/watch?v=UKv4_jvPtr4
+
+7. Adafruit Feather Huzzah ESP8266
+- a. https://learn.adafruit.com/adafruit-feather-huzzah-esp8266/using-arduino-ide
