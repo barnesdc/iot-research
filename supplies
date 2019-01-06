@@ -1,11 +1,25 @@
-## Supplies to have on hand
+## Things you'll need 
+* indicates harware not currenlty being used
+
+# Hardware
+  - Raspberry PI 3 Model B
   - P.I.R (Motion) Sensors
     - can be found on AdaFruit site 
   - female-to-female jumpers
   - female-to-male jumpers
   - male-to-male jumpers
-  - ESP8266 Wifi, Feather HUZZAH , 4MB Flash
-  - Temperature Sensors
-  - Humitidity Sensors
-  - weight Pressure Pad/Sensor 
+  - ESP8266 Wifi, Feather HUZZAH , 4MB Flash 
+  - Temperature Sensors *
+  - Humitidity Sensors *
+  - weight Pressure Pad/Sensor *
   - micro usb data cables
+ 
+# Software / Operating Systems
+  - Raspbian
+    - installed on the Raspberry Pi 3
+  - Arduino IDE
+    - Currently using version 1.8.7
+  - NodeRed
+    - latest version
+  - MQTT
+    - latest version
