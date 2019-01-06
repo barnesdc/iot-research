@@ -28,6 +28,7 @@
     - Ethernet Shield for Arduino - W5500 Chipset (PRODUCT ID: 2971)
 - PIR (motion) Sensor (PRODUCT ID: 189)
 - Electronics Parts Pack
+  - Discover Electronics Kit - 2.0 (PRODUCT ID: 487) is a good choice
 
 ## Tasks:
 
