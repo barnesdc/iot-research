@@ -8,15 +8,18 @@
 
 ## Hardware
 
-- Raspberry Pi 3B
-  - PiTFTPlus Plus 3.5"
-- Keyboard
+- Raspberry Pi 3 - Model B - ARMv8 with 1G RAM (PRODUCT ID: 3055)
+  - PiTFT - Assembled 480x320 3.5" TFT+Touchscreen for Raspberry Pi (PRODUCT ID: 2097) (optional equipment)
+- Keyboard / Mouse
   - wireless w/mouse preferred
 - HDMI Cable
   - HDMI to VGA
 - Monitor
-- Arduino Uno
-- PIR Sensor
+- Adafruit Feather HUZZAH with ESP8266 (product id: 2821)
+  - If not using this device with wireless capabaility, you will need:
+    - Adafruit METRO 328 - Arduino Compatible - with Headers - ATmega328 (PRODUCT ID: 2488)
+    - Ethernet Shield for Arduino - W5500 Chipset (PRODUCT ID: 2971)
+- PIR (motion) Sensor (PRODUCT ID: 189)
 - Electronics Parts Pack
 
 ## Tasks:
@@ -33,9 +36,14 @@
 
 ## Software/Downloads
 
-- NodeRed
+- Raspbian (latest version)
+  - installed on the Raspberry Pi
+- NodeRed (latest version)
+  - installed on the Raspberry Pi
+- MQTT Broker (latest version)
+  - installed on the Raspberry Pi
 - Arduino IDE
-- MQTT Broker
+  - installed on Mac/PC
 
 ## Resources
 
