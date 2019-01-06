@@ -10,9 +10,9 @@
 
 - Raspberry Pi 3 - Model B - Chose one of the two
   1. Raspberry Pi 3 Model B Starter Pack (PRODUCT ID: 3334)
-    - This pack will include everything you need
+     - This pack will include everything you need
   2.  Raspberry Pi 3 - Model B - ARMv8 with 1G RAM (PRODUCT ID: 3055)
-    - You will also need to purchse:
+     - You will also need to purchse:
       - an 8 GB SD Card to install Raspbian on
       - Power Supply
   - PiTFT - Assembled 480x320 3.5" TFT+Touchscreen for Raspberry Pi (PRODUCT ID: 2097) (optional equipment)
